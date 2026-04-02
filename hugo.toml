@@ -1,11 +1,11 @@
-baseURL = 'https://yourusername.github.io/'
+baseURL = 'https://francisco-obando.github.io/'
 languageCode = 'en-us'
 title = 'Cloud & Data Engineering Portfolio'
 theme = 'PaperMod'
 
 [params]
-  homeInfoParams = { Title = "Hi, I'm [Your Name]", Content = "Engineer specializing in Distributed Systems, Cloud Infra, and Data Pipelines." }
+  homeInfoParams = { Title = "Hi, I'm Francisco", Content = "Engineer specializing in Distributed Systems, Cloud Infra, and Data Pipelines." }
   socialIcons = [
-    { name = "github", url = "https://github.com/yourusername" },
-    { name = "linkedin", url = "https://linkedin.com/in/yourusername" }
+    { name = "github", url = "https://github.com/francisco-obando" },
+    { name = "linkedin", url = "https://linkedin.com/in/franciscoobando" }
   ]
