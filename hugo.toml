@@ -1,11 +1,107 @@
 baseURL = 'https://francisco-obando.github.io/'
 languageCode = 'en-us'
-title = 'Cloud & Data Engineering Portfolio'
+title = 'Francisco Obando | Software Engineer'
 theme = 'PaperMod'
 
 [params]
-  homeInfoParams = { Title = "Hi, I'm Francisco", Content = "Engineer specializing in Distributed Systems, Cloud Infra, and Data Pipelines." }
-  socialIcons = [
-    { name = "github", url = "https://github.com/francisco-obando" },
-    { name = "linkedin", url = "https://linkedin.com/in/franciscoobando" }
-  ]
+    env = 'production'
+    description = "Software Engineer specializing in Distributed Systems, Cloud Infra, and Data Pipelines."
+    author = "Francisco Obando"
+    mainSections = ["posts", "projects", "ideas"]
+
+    # Header label
+    [params.label]
+        text = "Francisco Obando"
+        # icon = "/images/logo.png" # Optional: add a logo if desired
+
+    # Profile Mode (Home Page)
+    [params.profileMode]
+        enabled = true
+        title = "Hi, I'm Francisco 👋"
+        subtitle = "Software Engineer | Distributed Systems | Cloud & Data Enthusiast"
+        imageUrl = "https://github.com/francisco-obando.png" # Using GitHub profile pic as placeholder
+        imageTitle = "Francisco Obando"
+        imageWidth = 120
+        imageHeight = 120
+        buttons = [
+            { name = "Projects", url = "/projects" },
+            { name = "Posts", url = "/posts" }
+        ]
+
+    # Social Icons
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/francisco-obando"
+    [[params.socialIcons]]
+        name = "linkedin"
+        url = "https://linkedin.com/in/franciscoobando"
+    [[params.socialIcons]]
+        name = "twitter"
+        url = "https://twitter.com/fobando" # Placeholder
+    [[params.socialIcons]]
+        name = "email"
+        url = "mailto:hello@example.com" # Placeholder
+
+    # Theme toggle
+    ShowReadingTime = true
+    ShowShareButtons = true
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = true
+    ShowToc = true
+    comments = false
+    
+    [params.editPost]
+        URL = "https://github.com/francisco-obando/my-site/content"
+        Text = "Suggest Changes"
+        appendFilePath = true
+
+    # Search
+    [params.fuseConfig]
+        isCaseSensitive = false
+        shouldSort = true
+        location = 0
+        distance = 1000
+        threshold = 0.4
+        minMatchCharLength = 0
+        keys = ["title", "permalink", "summary", "content"]
+
+[menu]
+    [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts"
+        weight = 10
+    [[menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects"
+        weight = 20
+    [[menu.main]]
+        identifier = "ideas"
+        name = "Ideas"
+        url = "/ideas"
+        weight = 25
+    [[menu.main]]
+        identifier = "archives"
+        name = "Archives"
+        url = "/archives"
+        weight = 30
+    [[menu.main]]
+        identifier = "search"
+        name = "Search"
+        url = "/search"
+        weight = 40
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+        weight = 50
+    [[menu.main]]
+        identifier = "resume"
+        name = "Resume"
+        url = "/resume"
+        weight = 60
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"] # JSON is for search
