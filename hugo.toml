@@ -1,30 +1,32 @@
 baseURL = 'https://francisco-obando.github.io/'
 languageCode = 'en-us'
-title = 'Francisco Obando | Software Engineer'
+title = 'Francisco Obando | Data Engineer'
 theme = 'PaperMod'
 
 [params]
     env = 'production'
-    description = "Software Engineer specializing in Distributed Systems, Cloud Infra, and Data Pipelines."
+    description = "Senior Data Engineer specializing in Scalable Data Platforms, Cloud Infrastructure (AWS/GCP), and Event-Driven Architectures."
     author = "Francisco Obando"
     mainSections = ["posts", "projects", "ideas"]
-
+    
     # Header label
     [params.label]
         text = "Francisco Obando"
-        # icon = "/images/logo.png" # Optional: add a logo if desired
+        icon = "/logo.png"
+        iconHeight = 35
 
     # Profile Mode (Home Page)
     [params.profileMode]
         enabled = true
-        title = "Hi, I'm Francisco 👋"
-        subtitle = "Software Engineer | Distributed Systems | Cloud & Data Enthusiast"
-        imageUrl = "https://github.com/francisco-obando.png" # Using GitHub profile pic as placeholder
+        title = "Francisco Obando"
+        subtitle = "Senior Data Engineer | AWS & GCP | Scalable Data Architectures"
+        imageUrl = "/avatar.png"
         imageTitle = "Francisco Obando"
-        imageWidth = 120
-        imageHeight = 120
+        imageWidth = 150
+        imageHeight = 150
         buttons = [
             { name = "Projects", url = "/projects" },
+            { name = "Resume", url = "/resume" },
             { name = "Posts", url = "/posts" }
         ]
 
@@ -36,13 +38,10 @@ theme = 'PaperMod'
         name = "linkedin"
         url = "https://linkedin.com/in/franciscoobando"
     [[params.socialIcons]]
-        name = "twitter"
-        url = "https://twitter.com/fobando" # Placeholder
-    [[params.socialIcons]]
         name = "email"
-        url = "mailto:hello@example.com" # Placeholder
+        url = "mailto:fran.obando@gmail.com"
 
-    # Theme toggle
+    # Theme toggle & features
     ShowReadingTime = true
     ShowShareButtons = true
     ShowPostNavLinks = true
@@ -52,7 +51,7 @@ theme = 'PaperMod'
     comments = false
     
     [params.editPost]
-        URL = "https://github.com/francisco-obando/my-site/content"
+        URL = "https://github.com/francisco-obando/francisco-obando.github.io/blob/main/content"
         Text = "Suggest Changes"
         appendFilePath = true
 
@@ -83,9 +82,9 @@ theme = 'PaperMod'
         url = "/ideas"
         weight = 25
     [[menu.main]]
-        identifier = "archives"
-        name = "Archives"
-        url = "/archives"
+        identifier = "resume"
+        name = "Resume"
+        url = "/resume"
         weight = 30
     [[menu.main]]
         identifier = "search"
@@ -97,11 +96,6 @@ theme = 'PaperMod'
         name = "About"
         url = "/about"
         weight = 50
-    [[menu.main]]
-        identifier = "resume"
-        name = "Resume"
-        url = "/resume"
-        weight = 60
 
 [outputs]
-    home = ["HTML", "RSS", "JSON"] # JSON is for search
+    home = ["HTML", "RSS", "JSON"]

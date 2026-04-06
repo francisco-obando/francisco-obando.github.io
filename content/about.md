@@ -1,19 +1,17 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-Hello! I'm Francisco Obando, a software engineer with a passion for building scalable systems and exploring data-driven solutions.
+I am an accomplished Senior Data Engineer with over 8 years of experience in designing and scaling data platforms and cloud architectures. My expertise lies in building robust event-driven systems and optimizing infrastructure to drive efficiency and reliability, with a strong focus on AWS and GCP environments.
 
-### Experience
-- **Role at Company A**: Brief description.
-- **Role at Company B**: Brief description.
+Currently, I lead data engineering efforts at Preston Ventures, where I focus on consolidating cloud workloads and enhancing data platform observability. I am passionate about bridging the gap between raw data and actionable insights through scalable, high-performance engineering solutions.
 
-### Skills
-- Languages: Python, Go, TypeScript, Java.
-- Infrastructure: AWS, Kubernetes, Terraform.
-- Data: Spark, Kafka, PostgreSQL.
+### Quick Links
+- 🛠️ [View My Projects](/projects)
+- 📄 [Read My Resume](/resume)
+- 📝 [Check Out My Posts](/posts)
 
-### Contact
+### Connect With Me
 - [GitHub](https://github.com/francisco-obando)
 - [LinkedIn](https://linkedin.com/in/franciscoobando)
-- [Email](mailto:hello@example.com)
+- [Email](mailto:fran.obando@gmail.com)
