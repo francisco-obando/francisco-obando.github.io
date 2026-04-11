@@ -1,0 +1,9 @@
+/* Corrected for PaperMod dark mode data-theme attribute */
+[data-theme='dark'] .logo img {
+    filter: invert(1) brightness(1.2);
+}
+
+/* Also target the case where .dark class might be used on body */
+.dark .logo img {
+    filter: invert(1) brightness(1.2);
+}
