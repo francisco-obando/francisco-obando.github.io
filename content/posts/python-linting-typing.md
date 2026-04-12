@@ -1,6 +1,6 @@
 ---
 title: "Scaling Python Quality: Linting and Type Checking with Ruff and Pyrefly"
-date: 2026-04-15T10:00:00Z
+date: 2026-04-11T10:00:00Z
 tags: ["Python", "CI/CD", "Linting", "Type Checking", "Ruff", "Pre-commit"]
 categories: ["Engineering"]
 summary: "Implementing a tiered linting and typing strategy using Ruff, Pyrefly, and pre-commit to balance strict standards with developer flexibility."

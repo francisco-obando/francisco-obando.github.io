@@ -16,6 +16,20 @@
       <description>How we solved database connection exhaustion in queue-based deployments by implementing controlled ramp-ups and pod-level circuit breakers.</description>
     </item>
     <item>
+      <title>AI-Driven E2E Testing: Mapping Blast Radius in Microservices</title>
+      <link>http://localhost:1313/projects/ai-e2e-testing/</link>
+      <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/ai-e2e-testing/</guid>
+      <description>Building a centralized E2E testing source of truth using AI agents to map dependencies and prioritize tests for QA-gated production releases.</description>
+    </item>
+    <item>
+      <title>Scaling Python Quality: Linting and Type Checking with Ruff and Pyrefly</title>
+      <link>http://localhost:1313/posts/python-linting-typing/</link>
+      <pubDate>Sat, 11 Apr 2026 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/python-linting-typing/</guid>
+      <description>Implementing a tiered linting and typing strategy using Ruff, Pyrefly, and pre-commit to balance strict standards with developer flexibility.</description>
+    </item>
+    <item>
       <title>Data Quality Infrastructure for MLOps</title>
       <link>http://localhost:1313/projects/data-quality-mlops/</link>
       <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>

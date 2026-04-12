@@ -35,6 +35,51 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-04-11T14:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2026-04-11T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/ai-e2e-testing/</loc>
+    <lastmod>2026-04-11T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/e2e-testing/</loc>
+    <lastmod>2026-04-11T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/microservices/</loc>
+    <lastmod>2026-04-11T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/platform-health/</loc>
+    <lastmod>2026-04-11T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/projects/</loc>
+    <lastmod>2026-04-11T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2026-04-11T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/quality-engineering/</loc>
+    <lastmod>2026-04-11T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ci/cd/</loc>
+    <lastmod>2026-04-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/linting/</loc>
+    <lastmod>2026-04-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pre-commit/</loc>
+    <lastmod>2026-04-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/python/</loc>
+    <lastmod>2026-04-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ruff/</loc>
+    <lastmod>2026-04-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/python-linting-typing/</loc>
+    <lastmod>2026-04-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/type-checking/</loc>
+    <lastmod>2026-04-11T10:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/aws/</loc>
     <lastmod>2026-03-20T12:00:00+00:00</lastmod>
   </url><url>
@@ -48,12 +93,6 @@
     <lastmod>2026-03-20T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/openmetadata/</loc>
-    <lastmod>2026-03-20T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/projects/</loc>
-    <lastmod>2026-03-20T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2026-03-20T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ideas/</loc>

@@ -44,6 +44,83 @@
       <description></description>
     </item>
     <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>E2E Testing</title>
+      <link>http://localhost:1313/tags/e2e-testing/</link>
+      <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/e2e-testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microservices</title>
+      <link>http://localhost:1313/tags/microservices/</link>
+      <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/microservices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Platform Health</title>
+      <link>http://localhost:1313/tags/platform-health/</link>
+      <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/platform-health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quality Engineering</title>
+      <link>http://localhost:1313/tags/quality-engineering/</link>
+      <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/quality-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CI/CD</title>
+      <link>http://localhost:1313/tags/ci/cd/</link>
+      <pubDate>Sat, 11 Apr 2026 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ci/cd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linting</title>
+      <link>http://localhost:1313/tags/linting/</link>
+      <pubDate>Sat, 11 Apr 2026 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/linting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pre-Commit</title>
+      <link>http://localhost:1313/tags/pre-commit/</link>
+      <pubDate>Sat, 11 Apr 2026 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pre-commit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Sat, 11 Apr 2026 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ruff</title>
+      <link>http://localhost:1313/tags/ruff/</link>
+      <pubDate>Sat, 11 Apr 2026 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ruff/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Type Checking</title>
+      <link>http://localhost:1313/tags/type-checking/</link>
+      <pubDate>Sat, 11 Apr 2026 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/type-checking/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>AWS</title>
       <link>http://localhost:1313/tags/aws/</link>
       <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>

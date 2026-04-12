@@ -12,7 +12,7 @@ theme = 'PaperMod'
     # Header label
     [params.label]
         text = "Francisco Obando"
-        icon = "/logo.png"
+        icon = "logo.png"
         iconHeight = 35
 
     [params.assets]

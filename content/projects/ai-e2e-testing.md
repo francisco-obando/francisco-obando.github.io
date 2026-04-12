@@ -1,6 +1,6 @@
 ---
 title: "AI-Driven E2E Testing: Mapping Blast Radius in Microservices"
-date: 2026-04-20T12:00:00Z
+date: 2026-04-11T12:00:00Z
 tags: ["AI", "E2E Testing", "Microservices", "Quality Engineering", "Platform Health"]
 categories: ["Projects"]
 summary: "Building a centralized E2E testing source of truth using AI agents to map dependencies and prioritize tests for QA-gated production releases."
