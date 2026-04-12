@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Francisco Obando | Data Engineer</title>
+    <title>Francisco Obando | Staff Software Engineer</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Francisco Obando | Data Engineer</description>
+    <description>Recent content on Francisco Obando | Staff Software Engineer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2024 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 14:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Future of Data Processing</title>
-      <link>http://localhost:1313/ideas/future-data-processing/</link>
-      <pubDate>Fri, 01 Mar 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ideas/future-data-processing/</guid>
-      <description>Short thought on real-time data streaming.</description>
+      <title>Handling the &#39;Thundering Herd&#39;: Solving Postgres Connection Spikes</title>
+      <link>http://localhost:1313/posts/postgres-connection-spikes/</link>
+      <pubDate>Sat, 11 Apr 2026 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/postgres-connection-spikes/</guid>
+      <description>How we solved database connection exhaustion in queue-based deployments by implementing controlled ramp-ups and pod-level circuit breakers.</description>
     </item>
     <item>
-      <title>Distributed Ledger Project</title>
-      <link>http://localhost:1313/projects/distributed-ledger/</link>
-      <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/distributed-ledger/</guid>
-      <description>A high-performance distributed ledger implemented in Rust.</description>
+      <title>Data Quality Infrastructure for MLOps</title>
+      <link>http://localhost:1313/projects/data-quality-mlops/</link>
+      <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/data-quality-mlops/</guid>
+      <description>Implementing a robust data quality framework using OpenMetadata and AWS Cognito to ensure high-fidelity data for machine learning models.</description>
     </item>
     <item>
-      <title>My First Technical Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Exploring the challenges of distributed consistency.</description>
+      <title>When to Use Explicit &#39;depends_on&#39; in Terraform</title>
+      <link>http://localhost:1313/ideas/terraform-depends-on/</link>
+      <pubDate>Sun, 15 Feb 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ideas/terraform-depends-on/</guid>
+      <description>A lesson in why implicit dependencies aren&amp;rsquo;t always enough, especially when managing NLB targets for existing databases.</description>
     </item>
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;I am an accomplished Senior Data Engineer with over 8 years of experience in designing and scaling data platforms and cloud architectures. My expertise lies in building robust event-driven systems and optimizing infrastructure to drive efficiency and reliability, with a strong focus on AWS and GCP environments.&lt;/p&gt;
-&lt;p&gt;Currently, I lead data engineering efforts at Preston Ventures, where I focus on consolidating cloud workloads and enhancing data platform observability. I am passionate about bridging the gap between raw data and actionable insights through scalable, high-performance engineering solutions.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I am an accomplished &lt;strong&gt;Staff Software Engineer&lt;/strong&gt; with over 8 years of experience in designing and scaling complex data platforms, cloud architectures, and MLOps workflows. My expertise lies in building robust event-driven systems and optimizing infrastructure to drive efficiency, security, and reliability at scale.&lt;/p&gt;
+&lt;p&gt;Currently, I am at &lt;strong&gt;Laurel&lt;/strong&gt;, where I lead software engineering initiatives to optimize and scale platform capabilities. Previously, I held key leadership and engineering roles at Preston Ventures, where I served as Director of MLOps and Senior Data Engineer, focusing on cloud cost optimization, high-availability medical data systems, and automated CI/CD security.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resume</title>
@@ -43,11 +43,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/resume/</guid>
       <description>&lt;h1 id=&#34;francisco-obando-msc&#34;&gt;Francisco Obando, M.Sc.&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Senior Data Engineer&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Staff Software Engineer&lt;/strong&gt;&lt;br&gt;
 &lt;a href=&#34;https://linkedin.com/in/franciscoobando&#34;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&#34;https://github.com/francisco-obando&#34;&gt;GitHub&lt;/a&gt; | &lt;a href=&#34;mailto:fran.obando@gmail.com&#34;&gt;Email&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/Resume.pdf&#34;&gt;📄 Download PDF&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;Accomplished Data Engineer with over 8 years of experience designing scalable data platforms, optimizing cloud infrastructures, and implementing event-driven architectures. Proven success in reducing operational costs, improving system reliability, and ensuring compliance with data governance and security standards, including HIPAA. Adept at leading teams, driving cross-functional collaboration, and supporting machine learning and analytics use cases across cloud environments like AWS and GCP.&lt;/p&gt;</description>
+&lt;p&gt;Accomplished Software and Data Engineer with extensive experience designing scalable platforms, optimizing cloud infrastructures, and implementing event-driven architectures. Proven success in reducing operational costs, improving system reliability, and ensuring compliance with data governance and security standards. Adept at leading teams, driving cross-functional collaboration, and supporting machine learning and analytics use cases across cloud environments like AWS and GCP.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

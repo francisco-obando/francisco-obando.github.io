@@ -2,9 +2,9 @@
 title: "About Me"
 ---
 
-I am an accomplished Senior Data Engineer with over 8 years of experience in designing and scaling data platforms and cloud architectures. My expertise lies in building robust event-driven systems and optimizing infrastructure to drive efficiency and reliability, with a strong focus on AWS and GCP environments.
+I am an accomplished **Staff Software Engineer** with over 8 years of experience in designing and scaling complex data platforms, cloud architectures, and MLOps workflows. My expertise lies in building robust event-driven systems and optimizing infrastructure to drive efficiency, security, and reliability at scale.
 
-Currently, I lead data engineering efforts at Preston Ventures, where I focus on consolidating cloud workloads and enhancing data platform observability. I am passionate about bridging the gap between raw data and actionable insights through scalable, high-performance engineering solutions.
+Currently, I am at **Laurel**, where I lead software engineering initiatives to optimize and scale platform capabilities. Previously, I held key leadership and engineering roles at Preston Ventures, where I served as Director of MLOps and Senior Data Engineer, focusing on cloud cost optimization, high-availability medical data systems, and automated CI/CD security.
 
 ### Quick Links
 - 🛠️ [View My Projects](/projects)

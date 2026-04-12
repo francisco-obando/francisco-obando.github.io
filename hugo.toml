@@ -1,11 +1,11 @@
 baseURL = 'https://francisco-obando.github.io/'
 languageCode = 'en-us'
-title = 'Francisco Obando | Data Engineer'
+title = 'Francisco Obando | Staff Software Engineer'
 theme = 'PaperMod'
 
 [params]
     env = 'production'
-    description = "Senior Data Engineer specializing in Scalable Data Platforms, Cloud Infrastructure (AWS/GCP), and Event-Driven Architectures."
+    description = "Staff Software Engineer specializing in Scalable Data Platforms, Cloud Infrastructure (AWS/GCP), and MLOps Architectures."
     author = "Francisco Obando"
     mainSections = ["posts", "projects", "ideas"]
     
@@ -25,7 +25,7 @@ theme = 'PaperMod'
     [params.profileMode]
         enabled = true
         title = "Francisco Obando"
-        subtitle = "Senior Data Engineer | AWS & GCP | Scalable Data Architectures"
+        subtitle = "Staff Software Engineer | Cloud & MLOps Architectures"
         imageUrl = "/avatar.png"
         imageTitle = "Francisco Obando"
         imageWidth = 150

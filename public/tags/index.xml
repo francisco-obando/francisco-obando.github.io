@@ -1,46 +1,109 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Francisco Obando | Data Engineer</title>
+    <title>Tags on Francisco Obando | Staff Software Engineer</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Francisco Obando | Data Engineer</description>
+    <description>Recent content in Tags on Francisco Obando | Staff Software Engineer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Feb 2024 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 14:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Infrastructure</title>
+      <link>http://localhost:1313/tags/infrastructure/</link>
+      <pubDate>Sat, 11 Apr 2026 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kubernetes</title>
+      <link>http://localhost:1313/tags/kubernetes/</link>
+      <pubDate>Sat, 11 Apr 2026 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Postgres</title>
+      <link>http://localhost:1313/tags/postgres/</link>
+      <pubDate>Sat, 11 Apr 2026 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/postgres/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resilience</title>
+      <link>http://localhost:1313/tags/resilience/</link>
+      <pubDate>Sat, 11 Apr 2026 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/resilience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scaling</title>
+      <link>http://localhost:1313/tags/scaling/</link>
+      <pubDate>Sat, 11 Apr 2026 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/scaling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AWS</title>
+      <link>http://localhost:1313/tags/aws/</link>
+      <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Quality</title>
+      <link>http://localhost:1313/tags/data-quality/</link>
+      <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data-quality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MLOps</title>
+      <link>http://localhost:1313/tags/mlops/</link>
+      <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mlops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenMetadata</title>
+      <link>http://localhost:1313/tags/openmetadata/</link>
+      <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/openmetadata/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Blockchain</title>
       <link>http://localhost:1313/tags/blockchain/</link>
-      <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/blockchain/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ledger</title>
-      <link>http://localhost:1313/tags/ledger/</link>
-      <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ledger/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rust</title>
-      <link>http://localhost:1313/tags/rust/</link>
-      <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/rust/</guid>
       <description></description>
     </item>
     <item>
       <title>Distributed Systems</title>
       <link>http://localhost:1313/tags/distributed-systems/</link>
-      <pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/distributed-systems/</guid>
       <description></description>
     </item>
     <item>
       <title>Go</title>
       <link>http://localhost:1313/tags/go/</link>
-      <pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ledger</title>
+      <link>http://localhost:1313/tags/ledger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ledger/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>http://localhost:1313/tags/rust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rust/</guid>
       <description></description>
     </item>
   </channel>
