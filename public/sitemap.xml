@@ -3,91 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-04-11T14:00:00+00:00</lastmod>
+    <lastmod>2026-04-11T14:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/engineering/</loc>
-    <lastmod>2025-04-11T14:00:00+00:00</lastmod>
+    <lastmod>2026-04-11T14:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-11T14:00:00+00:00</lastmod>
+    <lastmod>2026-04-11T14:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/postgres-connection-spikes/</loc>
-    <lastmod>2025-04-11T14:00:00+00:00</lastmod>
+    <lastmod>2026-04-11T14:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/infrastructure/</loc>
-    <lastmod>2025-04-11T14:00:00+00:00</lastmod>
+    <lastmod>2026-04-11T14:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/kubernetes/</loc>
-    <lastmod>2025-04-11T14:00:00+00:00</lastmod>
+    <lastmod>2026-04-11T14:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/postgres/</loc>
-    <lastmod>2025-04-11T14:00:00+00:00</lastmod>
+    <lastmod>2026-04-11T14:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-04-11T14:00:00+00:00</lastmod>
+    <lastmod>2026-04-11T14:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/resilience/</loc>
-    <lastmod>2025-04-11T14:00:00+00:00</lastmod>
+    <lastmod>2026-04-11T14:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/scaling/</loc>
-    <lastmod>2025-04-11T14:00:00+00:00</lastmod>
+    <lastmod>2026-04-11T14:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-04-11T14:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ideas/</loc>
-    <lastmod>2025-04-11T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ideas/terraform-depends-on/</loc>
-    <lastmod>2025-04-11T13:00:00+00:00</lastmod>
+    <lastmod>2026-04-11T14:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/aws/</loc>
-    <lastmod>2025-04-11T12:00:00+00:00</lastmod>
+    <lastmod>2026-03-20T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/data-quality/</loc>
-    <lastmod>2025-04-11T12:00:00+00:00</lastmod>
+    <lastmod>2026-03-20T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/data-quality-mlops/</loc>
-    <lastmod>2025-04-11T12:00:00+00:00</lastmod>
+    <lastmod>2026-03-20T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/mlops/</loc>
-    <lastmod>2025-04-11T12:00:00+00:00</lastmod>
+    <lastmod>2026-03-20T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/openmetadata/</loc>
-    <lastmod>2025-04-11T12:00:00+00:00</lastmod>
+    <lastmod>2026-03-20T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/projects/</loc>
-    <lastmod>2025-04-11T12:00:00+00:00</lastmod>
+    <lastmod>2026-03-20T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2025-04-11T12:00:00+00:00</lastmod>
+    <lastmod>2026-03-20T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ideas/future-data-processing/</loc>
-    <lastmod>2024-03-01T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ideas/</loc>
+    <lastmod>2026-02-15T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blockchain/</loc>
-    <lastmod>2024-02-01T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/distributed-ledger/</loc>
-    <lastmod>2024-02-01T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ledger/</loc>
-    <lastmod>2024-02-01T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/rust/</loc>
-    <lastmod>2024-02-01T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/blog/</loc>
-    <lastmod>2024-01-01T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/distributed-systems/</loc>
-    <lastmod>2024-01-01T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/go/</loc>
-    <lastmod>2024-01-01T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2024-01-01T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ideas/terraform-depends-on/</loc>
+    <lastmod>2026-02-15T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
